@@ -1,7 +1,10 @@
 # Saurav Kumar
 **Software Engineering Student | Full-Stack Development & Applied AI**
 
-[LinkedIn](https://www.linkedin.com/in/saurav-kumar11008) • [GitHub](https://github.com/sauravkai-01) • [LeetCode](https://leetcode.com/u/saurav_kai/) • [Email](mailto:sauravkai2023@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saurav-kumar11008) 
+• [GitHub](https://github.com/sauravkai-01) 
+• [LeetCode](https://leetcode.com/u/saurav_kai/) 
+• [Email](mailto:sauravkai2023@gmail.com)
 
 ---
 
